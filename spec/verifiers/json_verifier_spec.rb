@@ -26,7 +26,7 @@ describe Approvals::Verifiers::JsonVerifier do
       "./spec/fixtures/json_approval_with_different_whitespace/approved.json"
     end
 
-    it "does not passe verification" do
+    it "does not pass verification" do
       expect(instance.verify).to be_falsy
     end
   end
