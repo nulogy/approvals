@@ -2,7 +2,9 @@
 
 ### Next Release
 
-* Your contribution here
+### v0.1 (2021-05-05)
+
+* Looks like we're going to be looking after this gem.
 
 ### v0.0.22 (2015-10-22)
 
